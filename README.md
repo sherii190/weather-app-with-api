@@ -19,8 +19,7 @@ Welcome to the Weather React Native App repository! This app provides real-time 
 
 1. Clone the repository:
 
- - git clone https://github.com/your-username/weather-react-native.git
- cd weather-react-native
+ - git clone [https://github.com/your-username/weather-react-native.git](https://github.com/sherii190/weather-app-with-api.git)
 
 2. Install dependencies:
 
