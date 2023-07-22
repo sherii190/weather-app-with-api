@@ -45,4 +45,4 @@ I welcome any feedback, suggestions, or bug reports. Feel free to open an issue 
 
 ## License:
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](MIT-LICENSE.txt) file for details.
